@@ -1,3 +1,4 @@
+//FEEL FREE TO COPY MY CODE ND TEST IT OUT ON THE ONLINE JAVA COMPILER LINK THAT IS IN MY WEBSITE! :D
 //import scanner object
 import java.util.Scanner;
 
