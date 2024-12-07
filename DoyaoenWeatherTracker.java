@@ -1,3 +1,4 @@
+//FEEL FREE TO COPY MY CODE ND TEST IT OUT ON THE ONLINE JAVA COMPILER LINK THAT IS IN MY WEBSITE! :D
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
